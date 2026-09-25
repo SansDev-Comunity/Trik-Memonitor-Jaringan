@@ -5,4 +5,4 @@ Semua itu bisa di lakukan dengan mudah. Hal ini karena di sana ada banyak utilit
 pembantu yang bisa menunaikan pekerjaan-pekerjaan ini secara praktis. <br>
 Kita akan menggunakan sejumlah utilitas populer yang handal dan berlisensi freeware. <br>
 
-## isa di gunakan untuk yang menggunakan sistem operasi Windows maupun Unix/Linux
+# Bisa di gunakan untuk yang menggunakan sistem operasi Windows maupun Unix/Linux
